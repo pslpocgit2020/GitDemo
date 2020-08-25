@@ -1,6 +1,6 @@
 Hello World - This is file 1
 Welcome to Git
 
-main(){
-sysout("Hello from git");
+public static void main(String args[]){
+	System.out.println("Hello from git");
 }
